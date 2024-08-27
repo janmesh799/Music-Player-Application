@@ -1,3 +1,4 @@
 /client/node_modules
 
 /server/janmesh.pem
+/server/node_modules
