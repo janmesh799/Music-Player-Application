@@ -35,23 +35,23 @@ Visit the [SpotifyPrototype Demo](https://spotify-prototype.vercel.app/) to see 
 
 | Mobile View 1 | Mobile View 2 | Mobile View 3 |
 | :------------:| :------------:| :------------:| 
-| ![Mobile View 1](./src/assets/screenshots/ph_1.jpg) | ![Mobile View 2](./src/assets/screenshots/ph_2.jpg) | ![Mobile View 3](./src/assets/screenshots/ph_3.jpg) | 
+| ![Mobile View 1](./README_ASSETS/screenshots/ph_1.jpg) | ![Mobile View 2](./README_ASSETS/screenshots/ph_2.jpg) | ![Mobile View 3](./README_ASSETS/screenshots/ph_3.jpg) | 
 ---
 
 ### Tablet View
 
 | Tablet View 1 | Tablet View 2 | Tablet View 3 |
 | :------------:| :------------:| :------------:|
-| ![Tablet View 1](./src/assets/screenshots/tb_1.png) | ![Tablet View 2](./src/assets/screenshots/tb_2.png) | ![Tablet View 3](./src/assets/screenshots/tb_3.png) |
+| ![Tablet View 1](./README_ASSETS/screenshots/tb_1.png) | ![Tablet View 2](./README_ASSETS/screenshots/tb_2.png) | ![Tablet View 3](./README_ASSETS/screenshots/tb_3.png) |
 ---
 
 ### Desktop View
 
 | Desktop View 1 | Desktop View 2 | Desktop View 3 |
 | :-------------:| :-------------:| :-------------:| 
-| ![Desktop View 1](./src/assets/screenshots/lp_1.png) | ![Desktop View 2](./src/assets/screenshots/lp_2.png) | ![Desktop View 3](./src/assets/screenshots/lp_3.png) |
+| ![Desktop View 1](./README_ASSETS/screenshots/lp_1.png) | ![Desktop View 2](./README_ASSETS/screenshots/lp_2.png) | ![Desktop View 3](./README_ASSETS/screenshots/lp_3.png) |
 | Desktop View 4 | Desktop View 5 | Desktop View 6 |
-| ![Desktop View 4](./src/assets/screenshots/lp_4.png) |
+| ![Desktop View 4](./README_ASSETS/screenshots/lp_4.png) |
 ---
 
 This is an overview of SpotifyPrototype - 'A music Exploration Application', detailing its features, technologies used, how to launch the application, and screenshots showcasing its mobile, tablet, and desktop views.
