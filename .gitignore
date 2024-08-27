@@ -2,3 +2,4 @@
 
 /server/janmesh.pem
 /server/node_modules
+/server/.env
